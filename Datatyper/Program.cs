@@ -15,7 +15,7 @@ namespace Datatyper
             //För att skriva något till konsolen när vi kör programmet 
             //Använder vi denna syntax nedanför
            
-            Console.WriteLine("Hejsan, jag börjar greppa C#!!!! Abdi");
+            Console.WriteLine("Hejsan, jag börjar greppa C#!!!! Abdi Dayib");
 
             // Uppgift 1: Skriv ut "Hejsan, jag heter "Dittnamn" och Jag börjar greppa C#" tre gånger; 
 
